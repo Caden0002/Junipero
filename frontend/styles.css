@@ -1,0 +1,9 @@
+/* styles.css */
+
+.snap-y-mandatory {
+    scroll-snap-type: y mandatory;
+}
+
+.snap-center {
+    scroll-snap-align: center;
+}

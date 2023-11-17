@@ -9,7 +9,7 @@ const FooterIcons = [
     <a href="https://www.linkedin.com/in/caden-chen-576189205/" key="linkedin" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>,
     <a href="https://github.com/Caden0002" key="github" target="_blank" rel="noopener noreferrer"><FaGithub /></a>,
     <a href="https://www.cadenchen.net/" key="usertie" target="_blank" rel="noopener noreferrer"><FaUserTie /></a>,
-    <a href="https://omelettexblog.com/" key="blog" target="_blank" rel="noopener noreferrer"><FaBlog /></a>,
+    <a href="https://blog.cadenchen.net/" key="blog" target="_blank" rel="noopener noreferrer"><FaBlog /></a>,
 ];
 
 function Footer(props) {
